@@ -23,7 +23,9 @@
 ### Boolean Equation
 
 $$
+<img width="1263" height="1255" alt="image" src="https://github.com/user-attachments/assets/fc4fc063-0780-4a3e-923d-1ce707809323" />
 Y = A'B'C'D+A'B'CD+A'BC'D+A'BCD+AB'C'D'+AB'CD'+ABC'D'
+Y = A'D + AD'
 $$
 
 ### Digital Simulations
